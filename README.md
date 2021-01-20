@@ -1,12 +1,12 @@
-#Clothes Scraping
+# Clothes Scraping
 
-##Overview
+## Overview
 In this project, we created a python script for collect a clothes database.
 The data are collected in "la redoute" website with webscrapings technicals.
 We use the selenium library for control a web driver and scrap data. So you need to download a web driver.
 In the chromedriver directory, there are the webdriver for google chrome with Windows.
 
-##Installation
+## Installation
 To install and run the application just clone the repository.
 ```{commandline}
 git clone #####
@@ -15,7 +15,7 @@ You must then install the necessary libraries for this project.
 ```{commandline}
 pip install -r requirements.txt
 ```
-##Seting
+## Seting
 There are a config file at *scraping/conf.json*. In this config file, i saved the url template for acced to each clothes type and also the page number.
 
 For exemple :
@@ -30,7 +30,7 @@ For exemple :
   }
 }
 ```
-##Execution
+## Execution
 To create the first data frame, you need to execute the  following commandline
 
 ```{commandline}
