@@ -1,0 +1,8 @@
+numpy==1.19.4
+regex==2020.11.13
+beautifulsoup4==4.9.3
+pandas==1.2.0
+requests==2.25.1
+selenium==3.141.0
+Pillow==8.1.0
+tqdm==4.56.0

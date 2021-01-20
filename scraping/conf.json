@@ -1,0 +1,123 @@
+{
+  "homme" : {
+    "t_shirt": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-286.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 62
+      },
+    "jean": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-253.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 19
+      },
+    "polo": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-83745.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 17
+      },
+    "chemise": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-271.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 49
+      },
+    "pull_gilet_sweat": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-157941.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 51
+      },
+    "veste": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-290.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 20
+      },
+    "pantalon": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-258.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 28
+      },
+    "manteau_blouson": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-274.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 43
+      },
+    "costume_blazer": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-83760.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 9
+      },
+    "maillot_bain": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-311.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 11
+      },
+    "bermuda_short": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-294.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 18
+      },
+    "vetement_travail": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-255990.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 1
+      },
+    "salopette": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/244/cat-157567.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 1
+      },
+    "chaussure": {
+      "url": "https://www.laredoute.fr/pplp/100/157938/cat-516.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 89
+      }
+  },
+  "femme": {
+    "manteau_doudoune": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-677.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 35
+    },
+    "veste_blouson": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-703.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 40
+    },
+    "robe": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-692.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 88
+    },
+    "pull_gilet_sweat": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-157879.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 78
+    },
+    "chemise_blouse_tunique": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-83771.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 70
+    },
+    "tshirt_debardeur": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-697.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 103
+    },
+    "jean": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-659.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 31
+    },
+    "pantalon": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-686.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 52
+    },
+    "combinaison_salopette": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-66407.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 7
+    },
+    "jupe": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-666.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 27
+    },
+    "short": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-685.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 12
+    },
+    "maillot_bain": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-671.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 69
+    },
+    "legging": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/201/cat-670.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 9
+    },
+    "vetement_sport": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/175623/cat-83965.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 54
+    },
+    "chaussure": {
+      "url": "https://www.laredoute.fr/pplp/100/157878/cat-499.aspx?pgnt={}#shoppingtool=treestructureguidednavigation&srt=noSorting",
+      "nb_page": 167
+    }
+  }
+}
+
